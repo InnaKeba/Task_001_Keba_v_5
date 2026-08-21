@@ -1,0 +1,13 @@
+.env
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite3
+chroma_db/
+agent_state.db
+.idea/
+.vscode/
+.DS_Store
